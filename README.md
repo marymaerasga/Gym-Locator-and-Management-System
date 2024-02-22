@@ -11,7 +11,7 @@ This repository contains the Gym Locator application. Follow the instructions be
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/marymaerasga/gymlocator.git
    ```
 
 2. **Navigate to the project directory:**
